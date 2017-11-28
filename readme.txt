@@ -5,3 +5,10 @@ Git tracks changes
 creating a new branch is quick and simple
 add a new line to be test
 add one line 
+asdsadsahgd
+
+dsafdsfds
+
+Git has a mutable index called stage
+Git tracks changes
+creating a new branch is quick and simple
